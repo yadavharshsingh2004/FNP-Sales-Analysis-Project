@@ -1,0 +1,43 @@
+FNP Sales Analysis Dashboard
+Project Overview
+
+An interactive Microsoft Excel dashboard developed to analyze sales performance, revenue trends, product categories, gifting occasions, and delivery efficiency to support data-driven business decisions.
+
+Key Performance Indicators
+Metric	Value
+Total Orders	1,000
+Total Revenue	₹35,20,984
+Average Order Value	₹3,520.98
+Average Order-to-Delivery Time	5.53 days
+Key Features
+Revenue analysis by occasion and product category
+Monthly and hourly sales trends
+Top 5 products by revenue
+Top 10 cities by order volume
+Interactive date and occasion filters
+Key Insights
+Anniversary and Raksha Bandhan are major revenue-generating occasions.
+Colors, soft toys, and sweets are leading revenue categories.
+Magnum Set ranks highest among the displayed products by revenue.
+Imphal, Dhanbad, and Kavali lead in order volume among the displayed cities.
+Tools & Technologies
+Microsoft Excel
+Data Cleaning and Preparation
+Excel Formulas and Functions
+Pivot Tables and Pivot Charts
+Interactive Dashboard Design
+Data Visualization and Business Intelligence
+Dashboard Preview
+
+FNP Sales Analysis Dashboard
+
+Business Recommendations
+Optimize seasonal marketing campaigns.
+Improve inventory planning using sales trends.
+Identify opportunities to increase average order value.
+Monitor delivery performance and regional demand.
+
+This project demonstrates how Excel-based data analysis and visualization can identify sales trends, evaluate business performance, and support informed decision-making.
+
+Author
+Harsh Singh Yadav
